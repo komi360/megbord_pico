@@ -1,0 +1,2 @@
+# megbord_pico
+Raspberry Pi Picoで動くマクロキーパッド用の説明とコードを置いています
